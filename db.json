@@ -1,0 +1,32 @@
+{
+  "parking": [
+    {
+      "id": 0,
+      "srNo": "Sr No.",
+      "gender": "female",
+      "vehiclesParked": "Vehicles Parked",
+      "vehiclesInQueue": "Vehicles In Queue",
+      "updateVehicleStatus": {
+        "label": "Update Vehicle Status",
+        "showStatus": false
+      },
+      "vehicleOwnerDetails": "Vehicle Owner Details",
+      "dateOfParking": "Date Of Parking"
+    },
+    {
+      "id": 1,
+      "srNo": "1",
+      "gender": "male",
+      "vehiclesParked": "MH-31 BV 6211",
+      "vehiclesInQueue": "MH-31 OV 9211",
+      "updateVehicleStatus": {
+        "label": "",
+        "released": true,
+        "parked": false,
+        "showStatus": true
+      },
+      "vehicleOwnerDetails": "Kimi",
+      "dateOfParking": "22-12-2021"
+    }
+  ]
+}
