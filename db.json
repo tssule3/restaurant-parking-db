@@ -18,7 +18,7 @@
       "srNo": "1",
       "gender": "male",
       "vehiclesParked": "MH-31 BV 6211",
-      "vehiclesInQueue": "MH-31 OV 9211",
+      "vehiclesInQueue": "MH-31 TV 9211",
       "updateVehicleStatus": {
         "label": "",
         "released": true,
